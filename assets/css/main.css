@@ -268,7 +268,7 @@ img {
 }
 
 .footer {
-  background-color: #444;
+  background-color: rgb(255,255,255);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -282,7 +282,7 @@ img {
   color: #fff;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
-  background: url(../images/background.png);
+  background: rgb(255,255,255);
   background-repeat: repeat;
   background-attachment: fixed;
 }
@@ -423,7 +423,7 @@ img {
 }
 
 #nav {
-  background: url(../images/background.png);
+  background: rgb(255,165,0));
   background-repeat: repeat;
 }
 
