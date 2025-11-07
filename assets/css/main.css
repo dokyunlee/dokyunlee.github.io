@@ -9,6 +9,16 @@ img {
   max-height: 100%;
 }
 
+.paper-block {
+  margin-bottom: 50px; /* 논문 사이 여백 */
+}
+
+.paper-image img {
+  width: 100%;
+  max-width: 450px;
+  border-radius: 10px;
+}
+
 .head {
 
   color: #fff;
