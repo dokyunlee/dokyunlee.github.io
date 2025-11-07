@@ -380,10 +380,11 @@ img {
 }
 
 .profile-pic {
-  border-radius: 50%;
   width: 220px;
   height: 220px;
+  border-radius: 50%;
   border: solid 2px white;
+  object-fit: cover; /* 핵심 */
 }
 
 .profile-pic:hover {
